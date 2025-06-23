@@ -1,80 +1,13 @@
 {
   "vaultName": "School",
-  "lastExport": 1750167983777,
+  "lastExport": 1750691625840,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon table-max ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-custom-checkboxes anp-speech-bubble anp-latex-inline-text anp-latex-block-text anp-list-toggle anp-table-toggle anp-table-width anp-table-checkered anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-file-icons anp-simple-rainbow-color-toggle anp-rainbow-file-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-collapse-icon-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-icon-toggle anp-theme-ext-light ctp-notion-light ctp-nord-dark",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon full-width-media table-max ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-custom-checkboxes anp-speech-bubble anp-latex-inline-text anp-latex-block-text anp-list-toggle anp-table-toggle anp-table-width anp-table-checkered anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-file-icons anp-simple-rainbow-color-toggle anp-rainbow-file-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-collapse-icon-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-icon-toggle anp-theme-ext-light ctp-notion-light ctp-nord-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "01 English/Literature/Matura books/Abrams Dorst S/CheatSheet S.md",
-    "01 English/Literature/Matura books/Adams Hitchhikers Guide to the Galaxy/CheatSheet Hitchhiker’s Guide to the Galaxy.md",
-    "01 English/Literature/Matura books/Adams Hitchhikers Guide to the Galaxy/hhgtg.jpg",
-    "01 English/Literature/Matura books/Atwood Handmaids Tale/CheatSheet Handmaid’s Tale.md",
-    "01 English/Literature/Matura books/Atwood Handmaids Tale/Extract 1 - Handmaid’s Tale.md",
-    "01 English/Literature/Matura books/Atwood Handmaids Tale/Extract 2 - Handmaid’s Tale.md",
-    "01 English/Literature/Matura books/Austen Lady Susan/CheatSheet Lady Susan, Jane Austen.md",
-    "01 English/Literature/Matura books/Austen Pride and Prejudice/CheatSheet Pride and Prejudice.md",
-    "01 English/Literature/Matura books/Austen Pride and Prejudice/Extract 1 - Pride and Prejudice.md",
-    "01 English/Literature/Matura books/Austen Pride and Prejudice/Extract 2 - Pride and Prejudice.md",
-    "01 English/Literature/Matura books/Burgess Clockwork Orange/CheatSheet Clockwork Orange.md",
-    "01 English/Literature/Matura books/Collins The Hunger Games/CheatSheet Hunger Games.md",
-    "01 English/Literature/Matura books/Collins The Hunger Games/Extract 1 - Hunger Games.md",
-    "01 English/Literature/Matura books/Doyle Study in Scarlet/CheatSheet Study in Scarlet.md",
-    "01 English/Literature/Matura books/Doyle Study in Scarlet/d2-5.svg",
-    "01 English/Literature/Matura books/Doyle Study in Scarlet/Extract 1 - A Study in Scarlet.md",
-    "01 English/Literature/Matura books/Fitzgerald The Great Gatsby/CheatSheet The Great Gatsby.md",
-    "01 English/Literature/Matura books/Fitzgerald The Great Gatsby/Extract 1 - The Great Gatsby.md",
-    "01 English/Literature/Matura books/Fitzgerald The Great Gatsby/Extract 2 - The Great Gatsby.md",
-    "01 English/Literature/Matura books/Haig Midnight Library/CheatSheet Midnight Library.md",
-    "01 English/Literature/Matura books/Haig Midnight Library/Extract 1 - Midnight Library.md",
-    "01 English/Literature/Matura books/Herbert Dune/CheatSheet Dune.md",
-    "01 English/Literature/Matura books/Herbert Dune/Dune Character chart.svg",
-    "01 English/Literature/Matura books/Herbert Dune/Extract 1 - Dune.md",
-    "01 English/Literature/Matura books/Huxley Brave New World/CheatSheet - Brave New World.md",
-    "01 English/Literature/Matura books/Huxley Brave New World/Extract 1 - Brave New World.md",
-    "01 English/Literature/Matura books/Huxley Brave New World/Extract 2 - Brave New World.md",
-    "01 English/Literature/Matura books/Lewis The Monk/CheatSheet The Monk.md",
-    "01 English/Literature/Matura books/McCarthy The Road/CheatSheet The Road.md",
-    "01 English/Literature/Matura books/McCarthy The Road/Extract 1 - The Road.md",
     "01 English/Literature/Matura books/Miller Circe/CheatSheet Circe.md",
     "01 English/Literature/Matura books/Miller Circe/Extract 1 - Circe.md",
-    "01 English/Literature/Matura books/Miller The Crucible/CheatSheet Crucible.md",
-    "01 English/Literature/Matura books/Miller The Crucible/Extract 1 - Crucible.md",
-    "01 English/Literature/Matura books/Orwell 1984/CheatSheet 1984.md",
-    "01 English/Literature/Matura books/Orwell 1984/Extract 1 – 1984.md",
-    "01 English/Literature/Matura books/Orwell 1984/Extract 2 – 1984.md",
-    "01 English/Literature/Matura books/Orwell Animal Farm/CheatSheet Animal Farm.md",
-    "01 English/Literature/Matura books/Plath The Bell Jar/CheatSheet The Bell Jar.md",
-    "01 English/Literature/Matura books/Plath The Bell Jar/Extract 1 - The Bell Jar.md",
-    "01 English/Literature/Matura books/Spiegelman Maus/CheatSheet Maus.md",
-    "01 English/Literature/Matura books/Stevenson Jekyll and Hyde/CheatSheet - Jekyll and Hyde.md",
-    "01 English/Literature/Matura books/Stevenson Jekyll and Hyde/Extract 1 - Jekyll and Hyde.md",
-    "01 English/Literature/Matura books/Toibin Brooklyn/CheatSheet Brooklyn.md",
-    "01 English/Literature/Matura books/Toibin Brooklyn/class reading study guide.md",
-    "01 English/Literature/Matura books/Tolkien The Hobbit/CheatSheet the Hobbit.md",
-    "01 English/Literature/Matura books/Walker The Color Purple/CheatSheet The Color Purple.md",
-    "01 English/Literature/Matura books/Walker The Color Purple/Extract 1 - The Color Purple.md",
-    "01 English/Literature/Matura books/Wilde Dorian Gray/CheatSheet Dorian Gray.md",
-    "01 English/Literature/Matura books/Wilde Dorian Gray/Extract 1 - The Picture of Dorian Gray.md",
-    "01 English/Literature/Matura exams 2025/01 Wanja Camenisch.canvas",
-    "01 English/Literature/Matura exams 2025/02 Taisia Dragomirova.canvas",
-    "01 English/Literature/Matura exams 2025/03 Elin Blum.canvas",
-    "01 English/Literature/Matura exams 2025/04 Sam Krauthammer.canvas",
-    "01 English/Literature/Matura exams 2025/05 Maie Nagel.canvas",
-    "01 English/Literature/Matura exams 2025/06 Omer Ramanoski.canvas",
-    "01 English/Literature/Matura exams 2025/07 Michael Tschumi.canvas",
-    "01 English/Literature/Matura exams 2025/08 Arya Jadhav.canvas",
-    "01 English/Literature/Matura exams 2025/09 Vanessa, Anaïs.canvas",
-    "01 English/Literature/Matura exams 2025/10 Hannah Theiler and Olivia Peter.canvas",
-    "01 English/Literature/Matura exams 2025/11 Adrian Frauchiger and Vincent Shenton.canvas",
-    "01 English/Literature/Matura exams 2025/12 Michelle Chang and Mariel Imboden.canvas",
-    "01 English/Literature/Matura exams 2025/13 Lena-Sophia and Paula.canvas",
-    "01 English/Literature/Matura exams 2025/Maturabooks 25b.md",
-    "01 English/Literature/Matura exams 2025/NOTES Matura 25b.md",
-    "01 English/Literature/Matura exams 2025/Pasted image 20250605135043.png",
-    "lib/media/d2-5.svg",
-    "lib/media/hhgtg.jpg",
-    "lib/media/dune-character-chart.svg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -142,496 +75,99 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
-    "01 English/Literature/Matura books/Doyle Study in Scarlet/CheatSheet Study in Scarlet.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 7286,
-      "exportedPath": "01-english/literature/matura-books/doyle-study-in-scarlet/cheatsheet-study-in-scarlet.html",
-      "dependencies": [
-        "01-english/literature/matura-books/doyle-study-in-scarlet/d2-5.svg"
-      ]
-    },
-    "01 English/Literature/Matura books/Abrams Dorst S/CheatSheet S.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 7742,
-      "exportedPath": "01-english/literature/matura-books/abrams-dorst-s/cheatsheet-s.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Adams Hitchhikers Guide to the Galaxy/CheatSheet Hitchhiker’s Guide to the Galaxy.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 514,
-      "exportedPath": "01-english/literature/matura-books/adams-hitchhikers-guide-to-the-galaxy/cheatsheet-hitchhiker’s-guide-to-the-galaxy.html",
-      "dependencies": [
-        "01-english/literature/matura-books/adams-hitchhikers-guide-to-the-galaxy/hhgtg.jpg"
-      ]
-    },
-    "01 English/Literature/Matura books/Adams Hitchhikers Guide to the Galaxy/hhgtg.jpg": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 411951,
-      "exportedPath": "01-english/literature/matura-books/adams-hitchhikers-guide-to-the-galaxy/hhgtg.jpg",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Atwood Handmaids Tale/CheatSheet Handmaid’s Tale.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 7138,
-      "exportedPath": "01-english/literature/matura-books/atwood-handmaids-tale/cheatsheet-handmaid’s-tale.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Atwood Handmaids Tale/Extract 1 - Handmaid’s Tale.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2495,
-      "exportedPath": "01-english/literature/matura-books/atwood-handmaids-tale/extract-1-handmaid’s-tale.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Atwood Handmaids Tale/Extract 2 - Handmaid’s Tale.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2904,
-      "exportedPath": "01-english/literature/matura-books/atwood-handmaids-tale/extract-2-handmaid’s-tale.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Austen Lady Susan/CheatSheet Lady Susan, Jane Austen.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1927,
-      "exportedPath": "01-english/literature/matura-books/austen-lady-susan/cheatsheet-lady-susan,-jane-austen.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Austen Pride and Prejudice/CheatSheet Pride and Prejudice.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3720,
-      "exportedPath": "01-english/literature/matura-books/austen-pride-and-prejudice/cheatsheet-pride-and-prejudice.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Austen Pride and Prejudice/Extract 1 - Pride and Prejudice.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2957,
-      "exportedPath": "01-english/literature/matura-books/austen-pride-and-prejudice/extract-1-pride-and-prejudice.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Austen Pride and Prejudice/Extract 2 - Pride and Prejudice.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 7590,
-      "exportedPath": "01-english/literature/matura-books/austen-pride-and-prejudice/extract-2-pride-and-prejudice.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Burgess Clockwork Orange/CheatSheet Clockwork Orange.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 913,
-      "exportedPath": "01-english/literature/matura-books/burgess-clockwork-orange/cheatsheet-clockwork-orange.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Collins The Hunger Games/CheatSheet Hunger Games.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1640,
-      "exportedPath": "01-english/literature/matura-books/collins-the-hunger-games/cheatsheet-hunger-games.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Collins The Hunger Games/Extract 1 - Hunger Games.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 6424,
-      "exportedPath": "01-english/literature/matura-books/collins-the-hunger-games/extract-1-hunger-games.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Doyle Study in Scarlet/d2-5.svg": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 76328,
-      "exportedPath": "01-english/literature/matura-books/doyle-study-in-scarlet/d2-5.svg",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Doyle Study in Scarlet/Extract 1 - A Study in Scarlet.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2759,
-      "exportedPath": "01-english/literature/matura-books/doyle-study-in-scarlet/extract-1-a-study-in-scarlet.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Fitzgerald The Great Gatsby/CheatSheet The Great Gatsby.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2436,
-      "exportedPath": "01-english/literature/matura-books/fitzgerald-the-great-gatsby/cheatsheet-the-great-gatsby.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Fitzgerald The Great Gatsby/Extract 1 - The Great Gatsby.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2395,
-      "exportedPath": "01-english/literature/matura-books/fitzgerald-the-great-gatsby/extract-1-the-great-gatsby.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Fitzgerald The Great Gatsby/Extract 2 - The Great Gatsby.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3189,
-      "exportedPath": "01-english/literature/matura-books/fitzgerald-the-great-gatsby/extract-2-the-great-gatsby.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Haig Midnight Library/CheatSheet Midnight Library.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2135,
-      "exportedPath": "01-english/literature/matura-books/haig-midnight-library/cheatsheet-midnight-library.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Haig Midnight Library/Extract 1 - Midnight Library.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2619,
-      "exportedPath": "01-english/literature/matura-books/haig-midnight-library/extract-1-midnight-library.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Herbert Dune/CheatSheet Dune.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 9125,
-      "exportedPath": "01-english/literature/matura-books/herbert-dune/cheatsheet-dune.html",
-      "dependencies": [
-        "01-english/literature/matura-books/herbert-dune/dune-character-chart.svg"
-      ]
-    },
-    "01 English/Literature/Matura books/Herbert Dune/Dune Character chart.svg": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 97164,
-      "exportedPath": "01-english/literature/matura-books/herbert-dune/dune-character-chart.svg",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Herbert Dune/Extract 1 - Dune.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3307,
-      "exportedPath": "01-english/literature/matura-books/herbert-dune/extract-1-dune.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Huxley Brave New World/CheatSheet - Brave New World.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 5551,
-      "exportedPath": "01-english/literature/matura-books/huxley-brave-new-world/cheatsheet-brave-new-world.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Huxley Brave New World/Extract 1 - Brave New World.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3605,
-      "exportedPath": "01-english/literature/matura-books/huxley-brave-new-world/extract-1-brave-new-world.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Huxley Brave New World/Extract 2 - Brave New World.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3588,
-      "exportedPath": "01-english/literature/matura-books/huxley-brave-new-world/extract-2-brave-new-world.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Lewis The Monk/CheatSheet The Monk.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2571,
-      "exportedPath": "01-english/literature/matura-books/lewis-the-monk/cheatsheet-the-monk.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/McCarthy The Road/CheatSheet The Road.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1052,
-      "exportedPath": "01-english/literature/matura-books/mccarthy-the-road/cheatsheet-the-road.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/McCarthy The Road/Extract 1 - The Road.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2784,
-      "exportedPath": "01-english/literature/matura-books/mccarthy-the-road/extract-1-the-road.html",
-      "dependencies": []
-    },
     "01 English/Literature/Matura books/Miller Circe/CheatSheet Circe.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 6521,
+      "modifiedTime": 1750691625840,
+      "sourceSize": 9638,
       "exportedPath": "01-english/literature/matura-books/miller-circe/cheatsheet-circe.html",
       "dependencies": []
     },
     "01 English/Literature/Matura books/Miller Circe/Extract 1 - Circe.md": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 2824,
       "exportedPath": "01-english/literature/matura-books/miller-circe/extract-1-circe.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Miller The Crucible/CheatSheet Crucible.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3729,
-      "exportedPath": "01-english/literature/matura-books/miller-the-crucible/cheatsheet-crucible.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Miller The Crucible/Extract 1 - Crucible.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3158,
-      "exportedPath": "01-english/literature/matura-books/miller-the-crucible/extract-1-crucible.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Orwell 1984/CheatSheet 1984.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 4057,
-      "exportedPath": "01-english/literature/matura-books/orwell-1984/cheatsheet-1984.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Orwell 1984/Extract 1 – 1984.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 8084,
-      "exportedPath": "01-english/literature/matura-books/orwell-1984/extract-1-–-1984.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Orwell 1984/Extract 2 – 1984.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2654,
-      "exportedPath": "01-english/literature/matura-books/orwell-1984/extract-2-–-1984.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Orwell Animal Farm/CheatSheet Animal Farm.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 603,
-      "exportedPath": "01-english/literature/matura-books/orwell-animal-farm/cheatsheet-animal-farm.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Plath The Bell Jar/CheatSheet The Bell Jar.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2512,
-      "exportedPath": "01-english/literature/matura-books/plath-the-bell-jar/cheatsheet-the-bell-jar.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Plath The Bell Jar/Extract 1 - The Bell Jar.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2365,
-      "exportedPath": "01-english/literature/matura-books/plath-the-bell-jar/extract-1-the-bell-jar.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Spiegelman Maus/CheatSheet Maus.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 9477,
-      "exportedPath": "01-english/literature/matura-books/spiegelman-maus/cheatsheet-maus.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Stevenson Jekyll and Hyde/CheatSheet - Jekyll and Hyde.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1853,
-      "exportedPath": "01-english/literature/matura-books/stevenson-jekyll-and-hyde/cheatsheet-jekyll-and-hyde.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Stevenson Jekyll and Hyde/Extract 1 - Jekyll and Hyde.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3603,
-      "exportedPath": "01-english/literature/matura-books/stevenson-jekyll-and-hyde/extract-1-jekyll-and-hyde.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Toibin Brooklyn/CheatSheet Brooklyn.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3537,
-      "exportedPath": "01-english/literature/matura-books/toibin-brooklyn/cheatsheet-brooklyn.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Toibin Brooklyn/class reading study guide.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2133,
-      "exportedPath": "01-english/literature/matura-books/toibin-brooklyn/class-reading-study-guide.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Tolkien The Hobbit/CheatSheet the Hobbit.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1825,
-      "exportedPath": "01-english/literature/matura-books/tolkien-the-hobbit/cheatsheet-the-hobbit.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Walker The Color Purple/CheatSheet The Color Purple.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3282,
-      "exportedPath": "01-english/literature/matura-books/walker-the-color-purple/cheatsheet-the-color-purple.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Walker The Color Purple/Extract 1 - The Color Purple.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2108,
-      "exportedPath": "01-english/literature/matura-books/walker-the-color-purple/extract-1-the-color-purple.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Wilde Dorian Gray/CheatSheet Dorian Gray.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2539,
-      "exportedPath": "01-english/literature/matura-books/wilde-dorian-gray/cheatsheet-dorian-gray.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura books/Wilde Dorian Gray/Extract 1 - The Picture of Dorian Gray.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 7378,
-      "exportedPath": "01-english/literature/matura-books/wilde-dorian-gray/extract-1-the-picture-of-dorian-gray.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/01 Wanja Camenisch.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2146,
-      "exportedPath": "01-english/literature/matura-exams-2025/01-wanja-camenisch.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/02 Taisia Dragomirova.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1708,
-      "exportedPath": "01-english/literature/matura-exams-2025/02-taisia-dragomirova.html",
-      "dependencies": [
-        "lib/media/d2-5.svg",
-        "lib/media/hhgtg.jpg"
-      ]
-    },
-    "01 English/Literature/Matura exams 2025/03 Elin Blum.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1426,
-      "exportedPath": "01-english/literature/matura-exams-2025/03-elin-blum.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/04 Sam Krauthammer.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 3483,
-      "exportedPath": "01-english/literature/matura-exams-2025/04-sam-krauthammer.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/05 Maie Nagel.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1328,
-      "exportedPath": "01-english/literature/matura-exams-2025/05-maie-nagel.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/06 Omer Ramanoski.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2963,
-      "exportedPath": "01-english/literature/matura-exams-2025/06-omer-ramanoski.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/07 Michael Tschumi.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2205,
-      "exportedPath": "01-english/literature/matura-exams-2025/07-michael-tschumi.html",
-      "dependencies": [
-        "lib/media/dune-character-chart.svg"
-      ]
-    },
-    "01 English/Literature/Matura exams 2025/08 Arya Jadhav.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1188,
-      "exportedPath": "01-english/literature/matura-exams-2025/08-arya-jadhav.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/09 Vanessa, Anaïs.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2922,
-      "exportedPath": "01-english/literature/matura-exams-2025/09-vanessa,-anaïs.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/10 Hannah Theiler and Olivia Peter.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1399,
-      "exportedPath": "01-english/literature/matura-exams-2025/10-hannah-theiler-and-olivia-peter.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/11 Adrian Frauchiger and Vincent Shenton.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2541,
-      "exportedPath": "01-english/literature/matura-exams-2025/11-adrian-frauchiger-and-vincent-shenton.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/12 Michelle Chang and Mariel Imboden.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 1698,
-      "exportedPath": "01-english/literature/matura-exams-2025/12-michelle-chang-and-mariel-imboden.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/13 Lena-Sophia and Paula.canvas": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2579,
-      "exportedPath": "01-english/literature/matura-exams-2025/13-lena-sophia-and-paula.html",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/Maturabooks 25b.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 5077,
-      "exportedPath": "01-english/literature/matura-exams-2025/maturabooks-25b.html",
-      "dependencies": [
-        "01-english/literature/matura-exams-2025/pasted-image-20250605135043.png"
-      ]
-    },
-    "01 English/Literature/Matura exams 2025/Pasted image 20250605135043.png": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 268377,
-      "exportedPath": "01-english/literature/matura-exams-2025/pasted-image-20250605135043.png",
-      "dependencies": []
-    },
-    "01 English/Literature/Matura exams 2025/NOTES Matura 25b.md": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 2291,
-      "exportedPath": "01-english/literature/matura-exams-2025/notes-matura-25b.html",
       "dependencies": []
     },
     "01-english/literature/matura-books/adams-hitchhikers-guide-to-the-galaxy/hhgtg.jpg": {
@@ -652,24 +188,6 @@
       "exportedPath": "01-english/literature/matura-books/herbert-dune/dune-character-chart.svg",
       "dependencies": []
     },
-    "lib/media/d2-5.svg": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 76328,
-      "exportedPath": "lib/media/d2-5.svg",
-      "dependencies": []
-    },
-    "lib/media/hhgtg.jpg": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 411951,
-      "exportedPath": "lib/media/hhgtg.jpg",
-      "dependencies": []
-    },
-    "lib/media/dune-character-chart.svg": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 97164,
-      "exportedPath": "lib/media/dune-character-chart.svg",
-      "dependencies": []
-    },
     "01-english/literature/matura-exams-2025/pasted-image-20250605135043.png": {
       "modifiedTime": 1750167983777,
       "sourceSize": 268377,
@@ -677,103 +195,103 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 45723,
+      "modifiedTime": 1750691625840,
+      "sourceSize": 3958,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1750167983777,
-      "sourceSize": 8045,
+      "modifiedTime": 1750691625840,
+      "sourceSize": 428,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 287984,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 412,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 231,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1750167983777,
+      "modifiedTime": 1750691625840,
       "sourceSize": 57695,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
