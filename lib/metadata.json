@@ -1,0 +1,366 @@
+{
+  "vaultName": "School",
+  "lastExport": 1751277501221,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon full-width-media table-max anp-theme-ext-light ctp-notion-light ctp-nord-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "english/Texts/GYM2/How seaweed is a powerful, yet surprising, climate solution.md",
+    "english/Texts/GYM2/Seaweed is high in vitamins and minerals – but that’s not the only reason westerners should eat more of it.md",
+    "english/Texts/GYM2/What a 19th-century atlas teaches me about marine ecosystems.md",
+    "english/Texts/GYM4/How farming could change in a post-growth world.md",
+    "english/Texts/GYM4/How Farming in a post-growth world.md",
+    "english/Texts/GYM4/How the buildings – Questions.md",
+    "english/Texts/GYM4/How the buildings you occupy might be affecting your brain.md",
+    "english/Texts/GYM4/Is standing at your desk actually better than sitting.md",
+    "english/Texts/GYM4/Lost in translation five common English phrases you may be using incorrectly.md",
+    "english/Texts/GYM4/Polluted Lakes Are Being Cleansed with Trash.md",
+    "english/Texts/GYM4/Sitting on the floor vs sitting on a chair.md",
+    "english/Texts/GYM4/Standing Desks are Bad for your Health – New Study.md",
+    "english/Texts/GYM4/whatchamacallit gizmo thingamajig.md",
+    "english/Texts/GYM4/Why we are living in the age of the chair.md",
+    "english/Texts/Articles English class.md",
+    "english/english.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "english/Texts/GYM2/How seaweed is a powerful, yet surprising, climate solution.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 7351,
+      "exportedPath": "english/texts/gym2/how-seaweed-is-a-powerful,-yet-surprising,-climate-solution.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM2/Seaweed is high in vitamins and minerals – but that’s not the only reason westerners should eat more of it.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 8140,
+      "exportedPath": "english/texts/gym2/seaweed-is-high-in-vitamins-and-minerals-–-but-that’s-not-the-only-reason-westerners-should-eat-more-of-it.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM2/What a 19th-century atlas teaches me about marine ecosystems.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 8114,
+      "exportedPath": "english/texts/gym2/what-a-19th-century-atlas-teaches-me-about-marine-ecosystems.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/How farming could change in a post-growth world.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 9858,
+      "exportedPath": "english/texts/gym4/how-farming-could-change-in-a-post-growth-world.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/How Farming in a post-growth world.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 8275,
+      "exportedPath": "english/texts/gym4/how-farming-in-a-post-growth-world.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/How the buildings – Questions.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 2586,
+      "exportedPath": "english/texts/gym4/how-the-buildings-–-questions.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/How the buildings you occupy might be affecting your brain.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 15536,
+      "exportedPath": "english/texts/gym4/how-the-buildings-you-occupy-might-be-affecting-your-brain.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/Is standing at your desk actually better than sitting.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 10198,
+      "exportedPath": "english/texts/gym4/is-standing-at-your-desk-actually-better-than-sitting.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/Lost in translation five common English phrases you may be using incorrectly.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 7303,
+      "exportedPath": "english/texts/gym4/lost-in-translation-five-common-english-phrases-you-may-be-using-incorrectly.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/Polluted Lakes Are Being Cleansed with Trash.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 14328,
+      "exportedPath": "english/texts/gym4/polluted-lakes-are-being-cleansed-with-trash.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/Sitting on the floor vs sitting on a chair.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 7653,
+      "exportedPath": "english/texts/gym4/sitting-on-the-floor-vs-sitting-on-a-chair.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/Standing Desks are Bad for your Health – New Study.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 5743,
+      "exportedPath": "english/texts/gym4/standing-desks-are-bad-for-your-health-–-new-study.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/whatchamacallit gizmo thingamajig.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 4978,
+      "exportedPath": "english/texts/gym4/whatchamacallit-gizmo-thingamajig.html",
+      "dependencies": []
+    },
+    "english/Texts/GYM4/Why we are living in the age of the chair.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 8351,
+      "exportedPath": "english/texts/gym4/why-we-are-living-in-the-age-of-the-chair.html",
+      "dependencies": []
+    },
+    "english/Texts/Articles English class.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 9989,
+      "exportedPath": "english/texts/articles-english-class.html",
+      "dependencies": []
+    },
+    "english/english.md": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 98,
+      "exportedPath": "english/english.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 17353,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 2308,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 138258,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 279,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 48,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1751277501221,
+      "sourceSize": 57719,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
