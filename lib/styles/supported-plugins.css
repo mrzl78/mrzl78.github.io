@@ -1,1 +1,4 @@
 body.css-settings-manager{--img-border-radius:0}
+svg#graphDiv {
+ max-width: none !important;
+}
