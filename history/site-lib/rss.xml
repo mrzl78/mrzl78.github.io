@@ -1,4 +1,15 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[History]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>History</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 03 Sep 2025 09:24:31 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 03 Sep 2025 09:24:28 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[104-I Ancient Greece – Overview]]></title><description><![CDATA[Overview text Take notes of the most important aspects mentioned in the text.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[History]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>History</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 03 Sep 2025 15:18:15 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 03 Sep 2025 15:18:14 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[104-III Dark Age → Polis]]></title><description><![CDATA[Research task Find out why they are called the Dark Ages.
+What conditions led to the establishment of city-states (poleis)?
+How and why did Greek colonisation take place, and what were the consequences? Chris Butler, adapted by RöM
+<img alt="104-darkagegreeceandriseofpolis.svg" src="resources/104-darkagegreeceandriseofpolis.svg" target="_self">Multi column
+A Greek city-state, consisting of an urban settlement as centre
+its hinterland used for agriculture
+its inhabitants a polis is politically autonomous
+in economical autarchy
+able to defend its citizens and territory <br>Greek Colonisation 750 – 550 BC. <img alt="104 greekcolonizations.jpg" src="resources/104-greekcolonizations.jpg" target="_self">
+Fast population growth, crop failures and a hereditary system in which the estate of the father is being parted among the sons, along with the search for new trade places lead to Greek colonisation. It was organized by the home cities, sometimes even forced on certain parts of the population. The consequences were a flourish of trade and economy. Apart from that, Greek language and culture were spread across major parts of the Mediterranean.
+(Duden Basiswissen Geschichte)
+]]></description><link>104-ancient-greece/104-iii-dark-age-→-polis.html</link><guid isPermaLink="false">104 Ancient Greece/104-III Dark Age → Polis.md</guid><pubDate>Wed, 03 Sep 2025 14:52:37 GMT</pubDate><enclosure url="resources/104-darkagegreeceandriseofpolis.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="resources/104-darkagegreeceandriseofpolis.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[104-I Ancient Greece – Overview]]></title><description><![CDATA[Overview text Take notes of the most important aspects mentioned in the text.
 Why is Greek culture still relevant today? Alphabet
 ɑ, β, ... Alphabeta → alphabet
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenician_alphabet.svg" referrerpolicy="no-referrer" target="_self" class="is-unresolved">
@@ -42,18 +53,7 @@ Empires of the Diadochi (followers). Fast decline and disintegration of Alexande
 Greece becomes Roman Province
 30 BC
 Egypt becomes Roman Province. With that, also the last successor state of Alexander’s empire ends
-<br><img alt="104-GreekHistoryTimeline.svg" src="resources/104-greekhistorytimeline.svg" target="_self">]]></description><link>104-ancient-greece/104-i-ancient-greece-–-overview.html</link><guid isPermaLink="false">104 Ancient Greece/104-I Ancient Greece – Overview.md</guid><pubDate>Wed, 03 Sep 2025 09:23:59 GMT</pubDate><enclosure url="https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenician_alphabet.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenician_alphabet.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[104-III Dark Age → Polis]]></title><description><![CDATA[Research task Find out why they are called the Dark Ages.
-What conditions led to the establishment of city-states (poleis)?
-How and why did Greek colonisation take place, and what were the consequences? Chris Butler, adapted by RöM
-<img alt="104-darkagegreeceandriseofpolis.svg" src="resources/104-darkagegreeceandriseofpolis.svg" target="_self">Multi column
-A Greek city-state, consisting of urban settlement as centre
-hinterland used for agriculture
-its inhabitants a polis is politically autonomous
-in economical autarchy
-able to defend its citizens and territory <br>Greek Colonisation 750 – 550 BC. <img alt="104 greekcolonizations.jpg" src="resources/104-greekcolonizations.jpg" target="_self">
-Fast population growth, crop failures and a hereditary system in which the estate of the father is being parted among the sons, along with the search for new trade places lead to Greek colonisation. It was organized by the home cities, sometimes even forced on certain parts of the population. The consequences were a flourish of trade and economy. Apart from that, Greek language and culture were spread across major parts of the Mediterranean.
-Duden Basiswissen Geschichte.
-]]></description><link>104-ancient-greece/104-iii-dark-age-→-polis.html</link><guid isPermaLink="false">104 Ancient Greece/104-III Dark Age → Polis.md</guid><pubDate>Wed, 03 Sep 2025 09:22:45 GMT</pubDate><enclosure url="resources/104-darkagegreeceandriseofpolis.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="resources/104-darkagegreeceandriseofpolis.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[104-II Development of Greek Culture]]></title><description><![CDATA[From Evidence to Outlines of Societies
+<br><img alt="104-GreekHistoryTimeline.svg" src="resources/104-greekhistorytimeline.svg" target="_self">]]></description><link>104-ancient-greece/104-i-ancient-greece-–-overview.html</link><guid isPermaLink="false">104 Ancient Greece/104-I Ancient Greece – Overview.md</guid><pubDate>Wed, 03 Sep 2025 09:23:59 GMT</pubDate><enclosure url="https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenician_alphabet.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenician_alphabet.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[104-II Development of Greek Culture]]></title><description><![CDATA[From Evidence to Outlines of Societies
 or: How can what we have found help us reconstruct what was?
 Deduct
 From the pictures given here, what can be learned about the Minoans?
